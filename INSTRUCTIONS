@@ -1,0 +1,7 @@
+How to play (using Prototype.exe):
+Use arrow keys or WASD keys to move the robot. Use the space bar to jump.
+Click on various objects (normally moving platforms) to edit/open their "programming."
+Drag and drop the movement or symbols from your inventory in the bottom left corner of the screen into the openings on the top right of the screen to change how the objects function.
+Click the green play symbol to save and run these changes.
+
+The goal of the game is to get the robot from one side of the screen to the other.
