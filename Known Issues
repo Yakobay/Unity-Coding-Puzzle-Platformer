@@ -1,0 +1,16 @@
+Issues/bugs:
+
+1. Compiled game does not function properly unless run with 1920x1200 resolution and "fantastic" graphics settings.
+2. Removing or replacing movement or loop symbols in-game has inconsistent results
+3. Second platform intereferes with player's ability to use first platform and may pass through the first platform as if it is not there.
+4. Player sometimes gets stuck on the edge of a platform.
+
+Other notable problems (resulting from the game being incomplete):
+
+1. No levels past the first exist or function properly since they were not worked on beyond implementing the function of having the player 
+   move between levels.
+2. The Enemy (the small white box) has no texture or real function as of yet.
+3. There are several scripts which have no function in the current state of the prototype, which exist because of aspects of the game 
+   which have been removed or are yet to be added.
+4. Prototype.exe cannot be exited from in-game. If on a Windows computer, you must use the Windows key and close the application.
+5. There are no instructions or title screens in the game yet. 
